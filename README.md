@@ -1,6 +1,6 @@
 # AngularTestingOverview
 
-This project is the source code for the presentation on Angular Unit Tesing. It contains a simple demo showing how to make unit tests in Angular 6. It's largely based on the Jasmine and Angular documentation.
+This project is the source code for a presentation on Angular Unit Testing. It contains a simple demo showing how to make unit tests in Angular 6. It's largely based on the Jasmine and Angular documentation.
 
 ## Development server
 
